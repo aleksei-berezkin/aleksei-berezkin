@@ -1,16 +1,17 @@
-## Hi there 👋
+## Aleksei Berezkin
 
-<!--
-**aleksei-berezkin/aleksei-berezkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏠 Located in Munich, Germany
 
-Here are some ideas to get you started:
+🏢 Working for JetBrains GmbH in the [WebStorm](https://www.jetbrains.com/webstorm/) team
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Personal projects
+
+* https://guess-css.app/ HTML & CSS Puzzler Game
+* https://code-art.pictures/ Abstract artworks for your creations
+* https://aleksei-berezkin.github.io/hard-letters/ (Ru) Speech exercises for kids
+* https://mandelbrot.run/ Mandelbrot set interactive visualization
+
+### Social
+* Blog https://dev.to/alekseiberezkin
+* https://linkedin.com/in/a-v-berezkin/
+* https://x.com/a_v_berezkin
