@@ -10,6 +10,7 @@
 * https://code-art.pictures/ Abstract artworks for your creations
 * https://aleksei-berezkin.github.io/hard-letters/ (Ru) Speech exercises for kids
 * https://mandelbrot.run/ Mandelbrot set interactive visualization
+* https://github.com/aleksei-berezkin/fluent-streams A lib for lazy iterables manipulation
 
 ### Social
 * Blog https://dev.to/alekseiberezkin
